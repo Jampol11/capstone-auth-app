@@ -1,0 +1,10 @@
+body {
+    background: #f8f9fa;
+}
+.auth-page {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card {
+    border: none;
+}
